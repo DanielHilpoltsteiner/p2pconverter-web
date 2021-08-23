@@ -9,7 +9,7 @@ class About extends Component {
     return (
       <div>
         <div className="text-center">
-          <div class="impressum">
+          <div className="impressum">
             <h1>Impressum</h1>
             <p>Angaben gemäß § 5 TMG</p>
             <p>
