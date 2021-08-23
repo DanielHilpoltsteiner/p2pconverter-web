@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import FileDrop from "./filedrop";
-
 class Home extends Component {
   state = {};
 
